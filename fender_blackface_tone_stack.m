@@ -100,7 +100,7 @@ end
 if strcmp(playSound,'on')
     soundsc(out,Fs)
 end
-
+jkhjkhkhdiydsjkjjkakj
 %% Plotting
 
 if strcmp(plotTime,'on')
